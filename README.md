@@ -22,15 +22,3 @@ The `categories_reformater.py` script reads a file with a list of categories and
 3. Check the reformatted categories in the file `reformatted_files/reformatted_categories.md`
 
 Voila!
-qsdfqsf
-qsdf
-sqfd
-sqfsq
-g
-g
-hethe
-bvtr
-g
-esg
-rf
-z
